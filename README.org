@@ -1,10 +1,10 @@
 * Fall 2021 - Lab 04
 
-* Last name:
+* Last name: Shnayder
 
-* First name:
-
-* GitHub username:
+* First name: Jonathan
+	
+* GitHub username: JonathanDog
 
 * Notes:
 
